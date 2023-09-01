@@ -1,0 +1,33 @@
+{
+  "name": "react-native-react-wis",
+  "title": "React Native React Wis",
+  "version": "2.4.9",
+  "description": "Webinstats SDK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/github_account/react-native-react-wis.git",
+    "baseUrl": "https://github.com/github_account/react-native-react-wis"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": {
+    "name": "Your Name",
+    "email": "yourname@email.com"
+  },
+  "license": "MIT",
+  "licenseFilename": "LICENSE",
+  "readmeFilename": "README.md",
+  "devDependencies": {
+    "react": "^16.10.0",
+    "react-native": "^0.60.5"
+  },
+  "dependencies": {
+    "user": "^0.0.0",
+    "react-native-webview": ">=11.4.5"
+  }
+}
